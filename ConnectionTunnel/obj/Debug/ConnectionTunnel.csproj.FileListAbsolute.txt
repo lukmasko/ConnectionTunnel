@@ -1,0 +1,14 @@
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.csproj.AssemblyReference.cache
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.ConnectionSettingsControl.resources
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.Form1.resources
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.SettingsForm.resources
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.csproj.GenerateResource.cache
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.Properties.Resources.resources
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.csproj.CoreCompileInputs.cache
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\bin\Debug\ConnectionTunnel.exe.config
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\bin\Debug\ConnectionTunnel.exe
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\bin\Debug\ConnectionTunnel.pdb
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.exe
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.pdb
+C:\Users\lukma\source\repos\ConnectionTunnel\ConnectionTunnel\obj\Debug\ConnectionTunnel.ComPlugin.resources
