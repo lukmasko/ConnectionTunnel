@@ -6,7 +6,7 @@ Run application. In the settings, we select the connection to the first host. Th
 After clicking start, the application listens on both channels. After receiving data for each, it immediately transfers the data to the next one.
 
 # Download
-Click [link](https://github.com/lukmasko/ConnectionTunnel/raw/main/ConnectionTunnel_v1.0_portable) to download portable version.
+Click [link](https://github.com/lukmasko/ConnectionTunnel/raw/main/ConnectionTunnel_v1.0_portable.zip) to download portable version.
 
 
 # Screen
@@ -22,7 +22,6 @@ Action example
 C#
 
 # Dependencies
----
     
 # Authors
 Łukasz Maśko (lukmasko@gmail.com)
