@@ -11,7 +11,7 @@ Click [link](https://github.com/lukmasko/ConnectionTunnel/raw/main/ConnectionTun
 
 # Screen
 Setting up connections between hosts
-![Settings](images/settings.png)
+![Settings](images/sett.png)
 
 Working example
 ![Action example](images/work.png)
