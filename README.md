@@ -13,10 +13,8 @@ Click [link](https://github.com/lukmasko/ConnectionTunnel/raw/main/ConnectionTun
 Setting up connections between hosts
 ![Settings](images/settings.png)
 
-![Next part settings](images/settings_2.png)
-
-Action example
-![Action example](images/working.png)
+Working example
+![Action example](images/work.png)
 
 # Technology stack
 C#
